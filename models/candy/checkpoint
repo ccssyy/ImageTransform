@@ -1,0 +1,6 @@
+model_checkpoint_path: "candy.ckpt-900"
+all_model_checkpoint_paths: "candy.ckpt-700"
+all_model_checkpoint_paths: "candy.ckpt-750"
+all_model_checkpoint_paths: "candy.ckpt-800"
+all_model_checkpoint_paths: "candy.ckpt-850"
+all_model_checkpoint_paths: "candy.ckpt-900"

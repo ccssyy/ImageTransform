@@ -1,0 +1,3 @@
+model_checkpoint_path: "candy.ckpt-14300"
+all_model_checkpoint_paths: "candy.ckpt-14250"
+all_model_checkpoint_paths: "candy.ckpt-14300"

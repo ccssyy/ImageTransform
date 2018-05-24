@@ -1,0 +1,6 @@
+model_checkpoint_path: "mosaic.ckpt-17200"
+all_model_checkpoint_paths: "mosaic.ckpt-17000"
+all_model_checkpoint_paths: "mosaic.ckpt-17050"
+all_model_checkpoint_paths: "mosaic.ckpt-17100"
+all_model_checkpoint_paths: "mosaic.ckpt-17150"
+all_model_checkpoint_paths: "mosaic.ckpt-17200"

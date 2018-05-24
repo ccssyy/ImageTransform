@@ -1,0 +1,6 @@
+model_checkpoint_path: "scream.ckpt-6250"
+all_model_checkpoint_paths: "scream.ckpt-6050"
+all_model_checkpoint_paths: "scream.ckpt-6100"
+all_model_checkpoint_paths: "scream.ckpt-6150"
+all_model_checkpoint_paths: "scream.ckpt-6200"
+all_model_checkpoint_paths: "scream.ckpt-6250"
